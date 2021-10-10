@@ -8,6 +8,9 @@
 
 4 - Add your information below if you contribute on this project.
 
+**About Me!**
+My name is Waiz Kuruni Ahmed Zisan. I am 17 Years old. I live in Bangladesh. Currently I'm learning MERN Devlopment. I like technology and new things. Rading book is my thing. I lik open-source.
+
 **Importants Links** -
 - Twitter - https://twitter.com/wkazisan
 - Gmail - wkazisan@pm.me
