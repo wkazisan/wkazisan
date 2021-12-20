@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tooltip Using HTML/CSS](https://dev.to/wkazisan/tooltip-using-html-css-4ljc)
+- [Tooltip Using HTML/CSS](https://dev.to/wkazisan/tooltip-using-html-css-3ahk)
+- [Overlay 1.4](https://dev.to/wkazisan/overlay-1-4-33kg)
+- [Animation Using Transform](https://dev.to/wkazisan/animation-using-transform-4ag5)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
