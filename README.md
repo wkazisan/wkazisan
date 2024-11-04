@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,Me ? wkazisan</h1>
 <h3 align="center">A passionate Learner from Bangladesh</h3>
 
-<p align="left"> <a href="https://twitter.com/wkazisan" target="blank"><img src="https://img.shields.io/twitter/follow/wkazisan?logo=twitter&style=for-the-badge" alt="wkazisan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/feoavif" target="blank"><img src="https://img.shields.io/twitter/follow/wkazisan?logo=twitter&style=for-the-badge" alt="feoavif" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Development**
 
