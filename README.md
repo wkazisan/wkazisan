@@ -1,34 +1,82 @@
-<h1 align="center">I'm Ahmed Zisan</h1>
-<h3 align="center">A passionate Learner from Bangladesh</h3>
+# Hi, I'm Ahmed Zisan! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wkazisan&label=Profile%20views&color=0e75b6&style=flat" alt="wkazisan" /> </p>
+## A Passionate Full-Stack Developer & Web3 Enthusiast 🚀
 
-- 🔭 I’m currently working on [feoavif](https://github.com/wkazisan/feoavif)
-
-- 🌱 I’m currently learning **Javascript**
-
-- 📫 How to reach me **wkazisan@protonmail.com**
-
-- ⚡ Fun fact **I'm Lazy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/wkazisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wkazisan" height="30" width="40" /></a>
-<a href="https://dev.to/wkazisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="wkazisan" height="30" width="40" /></a>
-<a href="https://twitter.com/feoavif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="feoavif" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/wkazisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wkazisan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/wkazisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wkazisan" height="30" width="40" /></a>
-<a href="https://codesandbox.com/wkazisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="wkazisan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/zisanahmed009" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zisanahmed009" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/wkazisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="wkazisan" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wkazisan&theme=radical" alt="Stats Card"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wkazisan&theme=radical" alt="Repos Per Language"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/wkazisan"><img src="https://komarev.com/ghpvc/?username=wkazisan&style=flat-square" alt="Profile views"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wkazisan&show_icons=true&locale=en&layout=compact" alt="wkazisan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wkazisan&show_icons=true&locale=en" alt="wkazisan" /></p>
+## 🌱 I’m currently learning:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wkazisan&" alt="wkazisan" /></p>
+**CSS**
 
+### 🔭 I’m currently working on: [feoavif](https://github.com/wkazisan/feoavif)
+
+### 📫 Contact Me:
+
+- **Email**: wkazisan@protonmail.com
+
+## 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/wkazisan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/hermosoavif" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://dev.to/wkazisan" target="_blank"><img src="https://img.shields.io/badge/-Dev.to-%23000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>
+  <a href="https://codepen.io/wkazisan" target="_blank"><img src="https://img.shields.io/badge/-CodePen-%23000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
+  <a href="https://stackoverflow.com/users/wkazisan" target="_blank"><img src="https://img.shields.io/badge/-StackOverflow-%23FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow"/></a>
+</p>
+<!--
+## 💻 Tech Stack
+### **Frontend Frameworks & Libraries**
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/-Sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+</p>
+### **Backend & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+### **Web3 Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Solidity-%23363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/-Web3.js-%23F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
+  <img src="https://img.shields.io/badge/-Hardhat-%23F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat"/>
+</p>
+### **DevOps & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+-->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkazisan&theme=radical&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wkazisan&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wkazisan&theme=radical" alt="Profile Details"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wkazisan&theme=radical&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+⚡ **Fun fact:** I'm lazy 😆
