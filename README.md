@@ -33,7 +33,7 @@ I am an Electrical Engineer specializing in **Industrial Automation, Control Pan
 *   **Automatic Conveyor Belt Control System** - Sequential Logic, Sensor Integration.
 *   **Star-Delta Forward & Reverse Motor Control Panel** - Interlocking, Protection Logic.
 
-> 📂 **[See Full Project Showcase in Drive](#)** *(Replace # with your drive link)*
+> 📂 **[See Full Project Showcase in Drive](https://drive.google.com/drive/folders/1Gloqj2vxfW4hxvNW8BdcOJH05UT3ApUb?usp=sharing)** *(Replace # with your drive link)*
 
 ---
 
@@ -57,18 +57,4 @@ I am an Electrical Engineer specializing in **Industrial Automation, Control Pan
 
 Want to know more about my work experience and projects? 
 
-👉 **[See Full CV / Resume Here](#)** *(Replace # with your CV PDF link)*
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wkazisan&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wkazisan&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wkazisan&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wkazisan&theme=radical" />
-</p>
+👉 **[See Full CV / Resume Here](https://drive.google.com/file/d/1EK7JFdIci5HuGB_eWqyb4YLxPKFGwfMm/view?usp=sharing)** *(Replace # with your CV PDF link)*
