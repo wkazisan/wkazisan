@@ -63,12 +63,14 @@ Want to know more about my work experience and projects?
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wkazisan&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wkazisan&theme=radical" />
+<p>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=wkazisan&amp;show_icons=true&amp;count_private=true&amp;theme=radical" alt="wkazisan's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkazisan&amp;layout=compact&amp;theme=radical" alt="wkazisan's top languages">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wkazisan&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wkazisan&theme=radical" />
+<p>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wkazisan&amp;theme=radical" alt="wkazisan's GitHub streak">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=wkazisan&amp;repo=wkazisan&amp;theme=radical" alt="Pinned repository: wkazisan/wkazisan">
 </p>
