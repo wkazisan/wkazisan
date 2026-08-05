@@ -33,8 +33,7 @@ I am an Electrical Engineer specializing in **Industrial Automation, Control Pan
 *   **Automatic Conveyor Belt Control System** - Sequential Logic, Sensor Integration.
 *   **Star-Delta Forward & Reverse Motor Control Panel** - Interlocking, Protection Logic.
 
-> 📂 **[See Full Project Showcase in Drive](https://drive.google.com/drive/folders/1Gloqj2vxfW4hxvNW8BdcOJH05UT3ApUb?usp=sharing)** *(Replace # with your drive link)*
-
+> 📂 **[See Full Project Showcase in Drive](https://drive.google.com/drive/folders/1Gloqj2vxfW4hxvNW8BdcOJH05UT3ApUb?usp=sharing)**
 ---
 
 ### 🎓 Education
@@ -57,4 +56,4 @@ I am an Electrical Engineer specializing in **Industrial Automation, Control Pan
 
 Want to know more about my work experience and projects? 
 
-👉 **[See Full CV / Resume Here](https://drive.google.com/file/d/1EK7JFdIci5HuGB_eWqyb4YLxPKFGwfMm/view?usp=sharing)** *(Replace # with your CV PDF link)*
+👉 **[See Full CV / Resume Here](https://drive.google.com/file/d/1EK7JFdIci5HuGB_eWqyb4YLxPKFGwfMm/view?usp=sharing)**
