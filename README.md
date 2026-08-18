@@ -57,3 +57,8 @@ I am an Electrical Engineer specializing in **Industrial Automation, Control Pan
 Want to know more about my work experience and projects? 
 
 👉 **[See Full CV / Resume Here](https://drive.google.com/file/d/1EK7JFdIci5HuGB_eWqyb4YLxPKFGwfMm/view?usp=sharing)**
+
+
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=wkazisan&theme=github_dark&graph=true&languages=false&streak=true&stats=true&header=false&summary=false&profile=false" alt="GitHub Insights" />
+</p>
